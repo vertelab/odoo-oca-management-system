@@ -5,7 +5,7 @@
     "name": "Management System - Nonconformity Maintenance Equipment",
     "version": "18.0.1.0.0",
     "author": "Escodoo, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/management-system",
+    "website": "https://vertel.se/apps/odoo-oca-management-system/mgmtsystem_nonconformity_maintenance_equipment",
     "license": "AGPL-3",
     "category": "Management System",
     "depends": ["maintenance", "mgmtsystem_nonconformity"],

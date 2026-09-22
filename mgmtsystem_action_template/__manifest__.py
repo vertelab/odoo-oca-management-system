@@ -6,7 +6,7 @@
     "summary": "Add Template management for Actions.",
     "version": "18.0.1.0.0",
     "author": "Associazione PNLUG - Gruppo Odoo, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/management-system",
+    "website": "https://vertel.se/apps/odoo-oca-management-system/mgmtsystem_action_template",
     "license": "AGPL-3",
     "category": "Management System",
     "depends": ["mgmtsystem_action"],

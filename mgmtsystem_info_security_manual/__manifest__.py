@@ -21,7 +21,7 @@
     "name": "Information Security Management System Manual",
     "version": "18.0.1.0.0",
     "author": "Savoir-faire Linux, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/management-system",
+    "website": "https://vertel.se/apps/odoo-oca-management-system/mgmtsystem_info_security_manual",
     "license": "AGPL-3",
     "category": "Generic Modules/Others",
     "depends": ["mgmtsystem_manual"],

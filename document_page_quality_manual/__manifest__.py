@@ -6,7 +6,7 @@
     "version": "18.0.1.0.0",
     "category": "Management System",
     "author": "OpenERP SA, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/management-system",
+    "website": "https://vertel.se/apps/odoo-oca-management-system/document_page_quality_manual",
     "license": "AGPL-3",
     "depends": ["mgmtsystem_manual"],
     "data": ["data/document_page.xml"],

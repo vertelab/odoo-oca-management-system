@@ -22,7 +22,7 @@
     "name": "Environmental Aspects",
     "version": "18.0.1.0.0",
     "author": "Savoir-faire Linux, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/management-system",
+    "website": "https://vertel.se/apps/odoo-oca-management-system/document_page_environmental_aspect",
     "license": "AGPL-3",
     "category": "Generic Modules/Others",
     "depends": ["document_page", "mgmtsystem"],
