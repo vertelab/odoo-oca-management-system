@@ -20,6 +20,17 @@
 ##############################################################################
 {
     "name": "Environmental Aspects",
+    'summary': "Adds environmental aspect document pages.",
+    'description': '''
+Environmental Aspects
+=====================
+
+    Adds environmental aspect document pages.
+
+    Features:
+
+        - UI Integration: Extends 1 view(s) in the Odoo interface.
+    ''',
     "version": "18.0.1.0.0",
     "author": "Savoir-faire Linux, Odoo Community Association (OCA)",
     "website": "https://vertel.se/apps/odoo-oca-management-system/document_page_environmental_aspect",

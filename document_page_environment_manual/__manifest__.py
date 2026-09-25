@@ -19,6 +19,17 @@
 ##############################################################################
 {
     "name": "Document Management - Wiki - Environment Manual",
+    'summary': "Adds an environment manual document page.",
+    'description': '''
+Document Management - Wiki - Environment Manual
+===============================================
+
+    Adds an environment manual document page.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
     "version": "18.0.1.0.0",
     "author": "Savoir-faire Linux,Odoo Community Association (OCA)",
     "website": "https://vertel.se/apps/odoo-oca-management-system/document_page_environment_manual",

@@ -3,6 +3,17 @@
 
 {
     "name": "Document Management - Wiki - Procedures",
+    'summary': "Adds procedure document pages.",
+    'description': '''
+Document Management - Wiki - Procedures
+=======================================
+
+    Adds procedure document pages.
+
+    Features:
+
+        - UI Integration: Extends 1 view(s) in the Odoo interface.
+    ''',
     "version": "18.0.1.0.0",
     "author": "Savoir-faire Linux, Odoo Community Association (OCA)",
     "website": "https://vertel.se/apps/odoo-oca-management-system/document_page_procedure",

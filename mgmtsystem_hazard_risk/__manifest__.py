@@ -2,6 +2,18 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 {
     "name": "Hazard Risk",
+    'summary': "Adds risk assessment to hazards.",
+    'description': '''
+Hazard Risk
+===========
+
+    Adds risk assessment to hazards.
+
+    Features:
+
+        - UI Integration: Extends 5 view(s) in the Odoo interface.
+        - Extends Odoo: Builds on mgmtsystem.hazard, mgmtsystem.hazard.residual_risk, mgmtsystem.hazard.risk.computation, mgmtsystem.hazard.risk.type.
+    ''',
     "version": "18.0.1.1.0",
     "author": "Savoir-faire Linux, Odoo Community Association (OCA)",
     "website": "https://vertel.se/apps/odoo-oca-management-system/mgmtsystem_hazard_risk",

@@ -3,6 +3,18 @@
 
 {
     "name": "Hazard",
+    'summary': "Adds hazards to the management system.",
+    'description': '''
+Hazard
+======
+
+    Adds hazards to the management system.
+
+    Features:
+
+        - UI Integration: Extends 8 view(s) in the Odoo interface.
+        - Extends Odoo: Builds on mail.thread, mgmtsystem.hazard, mgmtsystem.hazard.control_measure, mgmtsystem.hazard.hazard.
+    ''',
     "version": "18.0.1.0.0",
     "author": "Savoir-faire Linux, Odoo Community Association (OCA)",
     "website": "https://vertel.se/apps/odoo-oca-management-system/mgmtsystem_hazard",

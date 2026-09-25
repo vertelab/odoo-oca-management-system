@@ -19,6 +19,17 @@
 ##############################################################################
 {
     "name": "Health and Safety Manual",
+    'summary': "Adds a health and safety manual document page.",
+    'description': '''
+Health and Safety Manual
+========================
+
+    Adds a health and safety manual document page.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
     "version": "18.0.1.0.0",
     "author": "Savoir-faire Linux, Odoo Community Association (OCA)",
     "website": "https://vertel.se/apps/odoo-oca-management-system/document_page_health_safety_manual",

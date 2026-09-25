@@ -3,6 +3,18 @@
 
 {
     "name": "Management System - Nonconformity Hazard",
+    'summary': "Links nonconformities to hazards.",
+    'description': '''
+Management System - Nonconformity Hazard
+========================================
+
+    Links nonconformities to hazards.
+
+    Features:
+
+        - UI Integration: Extends 2 view(s) in the Odoo interface.
+        - Extends Odoo: Builds on mgmtsystem.hazard, mgmtsystem.nonconformity.
+    ''',
     "version": "18.0.1.0.0",
     "author": "Escodoo, Odoo Community Association (OCA)",
     "website": "https://vertel.se/apps/odoo-oca-management-system/mgmtsystem_nonconformity_hazard",

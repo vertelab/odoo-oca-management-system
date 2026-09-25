@@ -3,6 +3,17 @@
 
 {
     "name": "Quality Manual",
+    'summary': "Adds a quality manual document page.",
+    'description': '''
+Quality Manual
+==============
+
+    Adds a quality manual document page.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
     "version": "18.0.1.0.0",
     "category": "Management System",
     "author": "OpenERP SA, Odoo Community Association (OCA)",

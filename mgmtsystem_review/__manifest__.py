@@ -3,6 +3,19 @@
 
 {
     "name": "Management System - Review",
+    'summary': "Adds management reviews.",
+    'description': '''
+Management System - Review
+==========================
+
+    Adds management reviews.
+
+    Features:
+
+        - Reports: Adds printable reports.
+        - UI Integration: Extends 2 view(s) in the Odoo interface.
+        - Extends Odoo: Builds on mail.thread, mgmtsystem.review, mgmtsystem.review.line.
+    ''',
     "version": "18.0.1.0.0",
     "author": "Savoir-faire Linux, Odoo Community Association (OCA)",
     "website": "https://vertel.se/apps/odoo-oca-management-system/mgmtsystem_review",

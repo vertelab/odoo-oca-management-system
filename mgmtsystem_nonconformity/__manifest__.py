@@ -2,6 +2,19 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 {
     "name": "Management System - Nonconformity",
+    'summary': "Adds nonconformities to the management system.",
+    'description': '''
+Management System - Nonconformity
+=================================
+
+    Adds nonconformities to the management system.
+
+    Features:
+
+        - Reports: Adds printable reports.
+        - UI Integration: Extends 6 view(s) in the Odoo interface.
+        - Extends Odoo: Builds on mail.thread, mgmtsystem.action, mgmtsystem.nonconformity, mgmtsystem.nonconformity.cause.
+    ''',
     "version": "18.0.1.0.0",
     "author": "Savoir-faire Linux, Odoo Community Association (OCA)",
     "website": "https://vertel.se/apps/odoo-oca-management-system/mgmtsystem_nonconformity",

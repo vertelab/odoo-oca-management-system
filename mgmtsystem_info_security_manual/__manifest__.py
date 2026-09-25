@@ -19,6 +19,17 @@
 ##############################################################################
 {
     "name": "Information Security Management System Manual",
+    'summary': "Adds an information security manual.",
+    'description': '''
+Information Security Management System Manual
+=============================================
+
+    Adds an information security manual.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
     "version": "18.0.1.0.0",
     "author": "Savoir-faire Linux, Odoo Community Association (OCA)",
     "website": "https://vertel.se/apps/odoo-oca-management-system/mgmtsystem_info_security_manual",
